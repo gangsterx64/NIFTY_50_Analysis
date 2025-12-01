@@ -211,7 +211,11 @@ NIFTY_50_Analysis/
 
 ## 📬 Contact Information
 
-   Name               Jitesh Jangam/
-   Email              jangamjitesh@gmail.com
-   Linked             linkedin.com/in/jitesh-jangam
+Thank you for reviewing this project! I am actively seeking opportunities and would love to connect.
+
+| Channel | Details |
+| :--- | :--- |
+| **Name** | Jitesh Jangam |
+| **Email** | `jangamjitesh1@gmail.com` |
+| **LinkedIn** | linkedin.com/in/jitesh-jangam |
 
