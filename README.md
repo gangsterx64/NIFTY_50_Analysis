@@ -211,8 +211,7 @@ NIFTY_50_Analysis/
 
 ## 📬 Contact Information
 
-   Channel            Details
-   Name               Jitesh Jangam
+   Name               Jitesh Jangam/
    Email              jangamjitesh@gmail.com
    Linked             linkedin.com/in/jitesh-jangam
 
