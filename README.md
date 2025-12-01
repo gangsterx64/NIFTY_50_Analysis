@@ -207,4 +207,12 @@ NIFTY_50_Analysis/
 │   └── volatility.png            # Rolling historical volatility chart
 │
 └── README.md                     # This project documentation file
+```
+
+## 📬 Contact Information
+
+   Channel            Details
+   Name               Jitesh Jangam
+   Email              jangamjitesh@gmail.com
+   Linked             linkedin.com/in/jitesh-jangam
 
